@@ -3,7 +3,7 @@ import { Col, Container, ModalFooter, Row } from 'react-bootstrap'
 
 function Footer() {
     return (
-        <div className='bg-dark py-2  font-small fixed-bottom'>
+        <div className='bg-dark py-2  fixed-bottom'>
             <Container className='text-light text-center'>
                 {/* <Row>
                     <Col md={12}></Col>
